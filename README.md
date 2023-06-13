@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souleateralban&label=Profile%20views&color=0e75b6&style=flat" alt="souleateralban" /> </p>
 
-- 🌱 Estou aprendendo agora sobre **Back-end, Docker , MySql e MongoDB**
+- 🌱 Estou aprendendo agora sobre ** C# **
 
 - 📫 Como chegar até mim **brenovinioli@gmail.com**
 
-- 📄 Minha experiencias (Fiz um técnico em Análise e Desenvolvimento de Sistemas e agora estudo na Trybe!)
+- 📄 Minha experiencias (Fiz um técnico em Análise e Desenvolvimento de Sistemas e o curso na Trybe!)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
