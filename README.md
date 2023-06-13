@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souleateralban&label=Profile%20views&color=0e75b6&style=flat" alt="souleateralban" /> </p>
 
-- 🌱 Estou aprendendo agora sobre ** C# **
+- 🌱 Estou aprendendo agora sobre **C#**
 
 - 📫 Como chegar até mim **brenovinioli@gmail.com**
 
